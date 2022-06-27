@@ -1,0 +1,17 @@
+=============== Jun 24, 2022 (IST) ===============
+18:51:54.876847 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:51:54.994857 db@open opening
+18:51:55.064868 version@stat F·[] S·0B[] Sc·[]
+18:51:55.116865 db@janitor F·2 G·0
+18:51:55.117864 db@open done T·123.0005ms
+18:51:55.636386 db@close closing
+18:51:55.636386 db@close done T·0s
+=============== Jun 24, 2022 (IST) ===============
+18:51:55.773394 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:51:55.783397 version@stat F·[] S·0B[] Sc·[]
+18:51:55.783397 db@open opening
+18:51:55.783397 journal@recovery F·1
+18:51:55.886402 journal@recovery recovering @1
+18:51:55.918407 version@stat F·[] S·0B[] Sc·[]
+18:51:56.030409 db@janitor F·2 G·0
+18:51:56.030409 db@open done T·246.9987ms
